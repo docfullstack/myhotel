@@ -1,0 +1,2 @@
+//map ------> map with key(date) .....value[how single beds,how many doubles rooms are booked]
+//we just want to know
